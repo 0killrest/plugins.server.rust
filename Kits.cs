@@ -9,7 +9,7 @@ using System.Linq;
 using UnityEngine;
 namespace Oxide.Plugins
 {
-    [Info("Kits", "By Denzoff", "1.1.2")]
+    [Info("Kits", "By 0killrestReworlk", "1.1.2")]
     class Kits : RustPlugin
     {
         [PluginReference] Plugin ImageLibrary;
