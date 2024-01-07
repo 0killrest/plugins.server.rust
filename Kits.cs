@@ -213,7 +213,7 @@ namespace Oxide.Plugins
         }
         protected override void LoadDefaultConfig()
         {
-            PrintWarning("Благодарим за приобритение плагина на сайте RustPlugin.ru. Если вы приобрели этот плагин на другом ресурсе знайте - это лишает вас гарантированных обновлений!");
+            PrintWarning("Нужна помощь с настройкой пишите в тг @sdk404");
             Config.Clear();
             Config.WriteObject(PluginConfig.CreateDefault(), true);
         }
